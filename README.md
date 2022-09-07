@@ -29,7 +29,7 @@ Loan.csv and Data_dictionary from the Case Study
 
 ## Project Members
 Ashwani Bhat
-Kishor Chandra Sekhar Kandukuri 
+Kishore Chandra Sekhar Kandukuri 
 
 ## Technologies Used
 Python
